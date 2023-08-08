@@ -1,0 +1,1 @@
+This project creates a webpage about food recipes using HTML.
