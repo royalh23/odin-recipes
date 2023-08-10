@@ -3,8 +3,11 @@ body {
     font-family: "Courier New", monospace;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
-    background-color: orange;
     color: white;
+}
+
+h1 {
+    background-color: orange;
 }
