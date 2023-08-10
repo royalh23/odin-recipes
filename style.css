@@ -13,3 +13,11 @@ ul {
     text-align: center;
     font-size: 24px;
 }
+
+.large-font {
+    font-size: large;
+}
+
+.left-side {
+    text-align: left;
+}
