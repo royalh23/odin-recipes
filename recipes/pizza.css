@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(47, 93, 145);
+    font-family: "Courier New", monospace;
+}
+
+h1 {
+    text-align: center;
+    background-color: orange;
+    color: white;
+}
