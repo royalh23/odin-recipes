@@ -7,6 +7,10 @@ h1 {
     text-align: center;
     background-color: orange;
     color: white;
+    padding: 16px;
+    width: 400px;
+    margin: 38px auto;
+    border: 5px solid rgb(216, 17, 17);
 }
 
 ul {
