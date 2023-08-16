@@ -25,3 +25,15 @@ ul {
 .left-side {
     text-align: left;
 }
+
+.homepage-item {
+    margin: 38px auto;
+    border: 3px solid rgb(216, 17, 17);
+    width: 200px;
+    background-color: orange;
+    color: white;
+}
+
+.main-list {
+    margin: 140px auto;
+}
